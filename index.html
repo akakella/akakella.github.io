@@ -3,22 +3,38 @@ layout: default
 ---
 
 <div class="header-bar">
-  <h1>*folio</h1>
-  <h2>simple whitespace theme</h2>
+  <br/>
+  <h1>Hi, I'm Abishek.</h1>
+  <br/>
   <br/>
   <hr>
   <br/>
 </div>
 
 
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
+<article class="post-content">
+<p>I'm currently a Master's student at the University of California, Berkeley, studying mechanical engineering. My
+academic interests are primarily in control theory and mechatronics, with a focus on robotics and automotive applications. Previously, I graduated from UC Berkeley with a BS in Mechanical Engineering (minor in EECS) in May 2015. 
+</p>
+
+<p>
+In between my schooling, I interned at General Motors (working on powertrain design for electric/hybrid vehicles)
+and Western Digital (working on control system development for advanced hard disk drive processes). I've also had the opportunity to work on a number of other projects throughout my undergraduate career at Berkeley -
+check out the projects tab for more information.
+</p>
+
+<br/>
+<hr>
+<p><br />
+<span class="contacticon center">
+	<a href="abishek.akella@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/akakella" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/akakella" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://twitter.com/akakella" target="_blank"><i class="fa fa-twitter-square"></i></a>
+        <a href="https://facebook.com/akakella93" target=_blank"><i class="fa fa-facebook-square"></i></a>
+</span></p>
+
+<div class="col three caption">
+The best way to reach me is via email.	
+</div>
+

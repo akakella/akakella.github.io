@@ -1,29 +1,28 @@
 ---
 layout: page
-title: about
+title: about me
 permalink: /about/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+Hi, I'm Abishek. I'm a recent graduate from the University of California, Berkeley, where I received my Master's and Bachelor's of Science in Mechanical Engineering. My interests are primarily in control theory, mechatronics, and robotics. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+This website contains a snapshot of somet of the personal and academic projects that I've worked on over the past few years. Feel free to contact me about anything here through one of the mediums below. 
 
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="abishek.akella@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/akakella" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/akakella" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://twitter.com/akakella" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	
 </div>
 
