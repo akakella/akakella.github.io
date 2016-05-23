@@ -13,7 +13,7 @@ A simple theme for showcasing your work, emphasis on whitespace, transparency, a
 This Jekyll theme implements collections to let you break up your work into categories. The example is divided into poetry and portfolio, but easily revamp this into recipes, apps, short stories, limmericks, whatever your creative work is. 
 > To do this, edit the collections in the config file, create a corresponding folder, and update the portfolio and poetry source files. 
 
-Three different layouts are included—the poetry layout, for a simple list of entries, the blog layout (index.html), for more detailed descriptive list of entries, and the portfolio layout. The portfolio layout overlays a descriptive hoverover on a background image. If no image is provided, the square is auto-filled with the chosen theme color. Thumbnail sizing is not necessary, as the grid crops images perfectly. 
+Thumbnail sizing is not necessary, as the grid crops images perfectly. 
 
 ### Portfolio Specifics
 You can easily add full pages for each of the projects in your portfolio. If you want one to link to an external website, create a file for it in _portfolio, and  fil in the YAML front matter as you would for another, but with a redirect, like so: 
